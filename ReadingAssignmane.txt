@@ -1,0 +1,7 @@
+https://techdifferences.com/difference-between-classification-and-clustering.html
+https://stats.stackexchange.com/questions/95209/how-can-i-interpret-sklearn-confusion-matrix
+
+TimeSeries:
+https://otexts.com/fpp2/ 
+
+aiml.coach@gmail.com post ur questions. will try to answer
