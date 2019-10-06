@@ -1,0 +1,77 @@
+Time series forecasting is the use of a statistical model to predict future values, based on past results.
+
+So what kinds of variables can we forecast?
+Any value that can be tracked and collected over time.
+
+
+The time series will need a numeric variable that we'd like to predict.
+This is our target variable. And it also needs a time based variable.
+
+Now, to accurately forecast future values, we'll need each measurement of data to be taken across sequential and equal intervals, and with each time
+unit having at most one data point.
+
+Once we have collected our data, as a business analyst, we have two objectives in mind:
+First, identifying the patterns represented by the sequence of observations, and 
+Second, forecasting or predicting future values of the time series.
+
+A time series plot shows a graphical presentation of the relationship
+between time and the time series target variable.
+Time is on the horizontal axis and
+the target variable's values are shown on the vertical axis.
+
+In time series analysis, a trend is a gradual shift or movement to relatively higher or lower values over a long period of time.
+
+When our trend pattern exhibits a general direction that is upward,
+where there are higher highs and higher lows, we call this an uptrend.
+When our trend pattern exhibits a general direction that is down, where there are lower highs and lower lows, we call this a downtrend.
+ 
+A time series can experience changing direction where it can go from
+an Uptrend to a Downtrend.
+
+If there were no trend, we call it a Horizontal or stationary trend.
+
+Each trend we see in a time series is called the trend cycle.
+
+############ DIfference bet cycle and seasonality ##################
+
+A time series that exhibits a repeating pattern at fixed intervals of time
+within a one year period is said to have a seasonal pattern or seasonality.
+If pattern repeats each year at the same time intervals, we can safely say that our time series contains seasonality.
+
+A cyclical pattern exists, when data exhibits rises and falls that are not of a fixed period.
+
+If the fluctuations are not of a fixed period, then they are cyclical.
+If the period is unchanging and associated with some aspect of the
+calendar, then the pattern is seasonal.
+
+In general, with cyclical patterns, the average length of cycles is longer
+than the length of the seasonal pattern.
+And the magnitude of cycles tends to change more than the magnitude of
+seasonal patterns.
+
+Also, cyclical patterns are much harder to predict as well.
+The decline in stock markets is often sudden and violent, all coming as
+a surprise to most.
+
+######################################################### Diff bet prediction and forecasting #############
+Difference Between FORECAST and PREDICTION 
+
+
+Forecasting is an extrapolation of past into the future while prediction is judgmental and takes into account changes taking place in the future. 
+Therefore, prediction is utilized more in business and economics while forecasting takes place in weather and earthquakes.
+
+Predicting is saying or telling something before the event while forecasting is done on the basis of analysis of the past.
+
+Forecasting is still not a complete science as there are chances of error.
+
+################################## When to use time series vs Linear regression #################### 
+
+a linear regression analysis is good for simple relationships like height and age or time studying and GPA, 
+if we want to look at relationships over time in order to identify trends, we use a time series regression analysis. 
+
+
+
+
+
+Source:
+ Blogs, articles and standard text books.
