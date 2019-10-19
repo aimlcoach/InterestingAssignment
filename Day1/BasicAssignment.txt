@@ -1,0 +1,7 @@
+
+1. Write a program to print you name and age.
+2. Write a program that takes input from you, your current location and prints it.
+3. FInd the mean of 1,2,3,4,5 using calculator. Write a program to verify your result.
+4. Write a program that prints 2 table (multiples of 2) till 10. ie. from 2x1=2 till 2x10=20
+5. Write a program to print your current directory ie. where your python file is stored.
+    Hint: import os; my_dir=os.getcwd(). Now print the value of my_dir

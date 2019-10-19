@@ -1,0 +1,48 @@
+
+
+1,2,3,4,5,6        ans:3.5
+
+1,2,2,3,4,3,4    what is the MODE? ans: 2 & 3,4
+
+
+2.9,3,3.1,2.8,3.2,1,1
+
+
+Factorial !
+5! = 5x4x3x2x1 = 120
+
+n! = nxn-1x....x1
+
+Permutations: ORder becomes important
+
+combinations: ORder is not important
+
+P(n,r) = n!/(n-r)!
+
+C(n,r) = n!/(n-r)!r!
+
+A,B,C 
+I need to choose two at a time
+No. of combinations possible? Ans: 3
+
+3!         3x2           3           ab,bc,ac
+1!2!     1x2
+
+
+no. of permutations possible? Ans: 6          ab,bc,ca,ba,cb,ac
+
+
+
+
+########################### 
+probability
+
+= wanted outcome/possible outcomes
+
+Eg: prob of getting 1 in game of dice where single dice is used?
+       
+      1/6            
+
+-> "Max " value of probability is any case is always 1
+
+####################
