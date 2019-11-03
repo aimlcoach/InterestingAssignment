@@ -2,7 +2,7 @@
 """
 Created on Fri Nov  1 06:29:17 2019
 
-@author: For cognixia
+@author: For 
 """
 
 
@@ -17,7 +17,7 @@ say something:print("")
     listen:input("")
         follow:while, for
 """
-print("This is cognixia")
+print("This is cog")
 a=input("Hi , how are u doing")
 print(a)
 
@@ -78,9 +78,7 @@ Identifiers(variable names) cannot start with digit and cannot contain spl.
 characters like &,*,$
 
 """
- myname1='cognixia'
- my*name="cognixia"
-
+ 
 #What are keywords . how to know available variables in python using code?
 '''
 Keywords are reserved words in Python. They are used by python language for 
@@ -134,7 +132,7 @@ type(a)
 b=5+8j
 type(b)
  #Sequence: string,list,tuple
-hi='hello cognixia'
+hi='hello na'
 type(hi)
 names=['ajay','karthik','bibhav']
 type(names) 
@@ -165,11 +163,11 @@ has no duplicate elements.
 '''
 my_dictionary={}
 print(my_dictionary)
-cognixia_courses={1:'dspy',2:'mlpy',3:'ai','institute':'cognixia'}
-print(cognixia_courses)
+cog_courses={1:'dspy',2:'mlpy',3:'ai','institute':'cogni'}
+print(cog_courses)
 
-print(cognixia_courses[1])
-print(cognixia_courses['institute'])
+print(cog_courses[1])
+print(cog_courses['institute'])
 
 # HOW to list all keys and all values of a dictionary##################
 ######################################################
@@ -232,7 +230,7 @@ https://pynative.com/python-exercises-with-solutions/
 5. IS the given character a vowel or consonant.
 6. Is given string a palindrome. ie. anna, amma, liril are palindromes.
 ######################
-print("Hello Cognixia")
+
      
 print("Hello prasanna")
 
